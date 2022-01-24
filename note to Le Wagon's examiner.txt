@@ -1,0 +1,2 @@
+about Typeform embed: when I copy the code in my html, the form does not show itself on my website, but there is an extra empty place (where the form is supposed to be).
+Others online have also experienced same issue, could not find out why, but I did an link instead.
